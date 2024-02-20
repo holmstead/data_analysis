@@ -1,10 +1,19 @@
 # data_analysis
 
-This repository contains some data analysis projects I'm working on. 
+This repository contains some data analysis projects. 
 
 The are a wealth of sources online: 
-- https://data.gov.ie/dataset
 
+- Social
+   - https://www.cso.ie/en/databases/
+   - https://data.gov.ie/
+   - https://data.ehealthireland.ie/
+
+- Geological
+    - https://www.gsi.ie/en-ie/data-and-maps/Pages/default.aspx
+
+- Meteorological
+    - https://www.met.ie/about-us/specialised-services/open-data
 
 ## Contents
 
